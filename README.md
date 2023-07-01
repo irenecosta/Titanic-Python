@@ -5,7 +5,7 @@ O conjunto de dados dos sobreviventes do Titanic é amplamente utilizado e ofere
 
 # Titanic-Python
 
-Este projeto tem como objetivo realizar uma análise exploratória dos dados e tratamento de dados para verificar os melhores modelos de machine learning que poderão prever os sobreviventes do naufrágio do Titanic.
+No presente projeto, realizei uma análise de dados abrangente, incluindo exploração e visualização dos dados, tratamento dos valores ausentes e modelagem preditiva utilizando técnicas de machine learning. Através dessa análise, obtive insights valiosos, identifiquei padrões e construí modelos capazes de fazer previsões precisas.
 
 # Bibliotecas utilizadas
 - pandas 
